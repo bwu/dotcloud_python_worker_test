@@ -1,0 +1,8 @@
+This application was created to get to know a few Dotcloud Services so that I could implement a
+larger dotcloud project. The application uses two services, the mongodb database service and
+the python worker service.
+
+The application was designed to connect to a mongo database hosted on Dotcloud and record the
+time and date into the database at one minute intervals. I tried to make the application as simple
+as possible, to focus on understanding on the different services rather than creating something
+actionable.
